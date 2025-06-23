@@ -6,3 +6,11 @@
 </p>  
 
 Hummingbird is a lightweight, flexible modern web application framework. It is built with a modular design and provides a robust set of features to build your next web application.
+
+## Getting Started
+
+Find out more about Hummingbird by either visiting our [website](https://hummingbird.codes), or reading the [documentation](https://docs.hummingbird.codes). Join our developer community [discord](https://discord.gg/4twfgYqdat) to ask questions, discuss features or just to shoot the breeze.
+
+## Contributing
+
+We welcome contributions from everyone. Guidelines for contributing to the Hummingbird project can be found [here](https://github.com/hummingbird-project/hummingbird/blob/main/CONTRIBUTING.md). 
